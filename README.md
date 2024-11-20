@@ -2,7 +2,9 @@
 
 Example of image classification inference using a CNN model. You can upload your images either by dragging them into the chat area or clicking on "Upload image" button. Then just click on the Send button and see what your model predicted.
 
-Author: Matej Volansky (2024)
+Author(s):
+- Matej Volansky (2024)
+- as a part of the Team project for the course preparation in 2023/2024
 
 Docker image size: `1.25 GB`
 
@@ -36,5 +38,3 @@ After that go ahead and run
 ```
 pip install -r requirements.txt
 ```
-
-**Thank to Team project for the course preparation in 2023/2024**
