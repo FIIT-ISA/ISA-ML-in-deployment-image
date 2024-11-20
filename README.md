@@ -37,4 +37,4 @@ After that go ahead and run
 pip install -r requirements.txt
 ```
 
-### Thank to Team project for the course preparation in 2023/2024
+**Thank to Team project for the course preparation in 2023/2024**
