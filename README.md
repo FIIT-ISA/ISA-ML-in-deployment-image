@@ -4,7 +4,7 @@ Example of image classification inference using a CNN model. You can upload your
 
 Author(s):
 - Matej Volansky (2024)
-- as a part of the Team project for the course preparation in 2023/2024
+- as a part of the team work preparation in 2023/2024
 
 Docker image size: `1.25 GB`
 
